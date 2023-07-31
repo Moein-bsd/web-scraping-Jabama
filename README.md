@@ -6,5 +6,9 @@ Selenium library was used in this project and information of 4871 rental ads was
 And at the end, there is a diagram of the number of ads by province.
 
 
+
+
+
+
 ### Author Info
 * LinkedIn - [Moein Baniasadi](www.linkedin.com/in/moein-baniasadi)
